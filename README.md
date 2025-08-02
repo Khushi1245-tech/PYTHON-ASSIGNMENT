@@ -1,1 +1,1 @@
-# Pwskills-Assignment-June2025Batch
+# PYTHON & STATISTICS ASSIGNMENT
